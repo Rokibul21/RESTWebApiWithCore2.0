@@ -1,0 +1,11 @@
+C:\Users\Rabby\source\repos\RestWebApiProject\RestWebApiProject\obj\Debug\netcoreapp2.0\RestWebApiProject.csprojAssemblyReference.cache
+C:\Users\Rabby\source\repos\RestWebApiProject\RestWebApiProject\obj\Debug\netcoreapp2.0\RestWebApiProject.csproj.CoreCompileInputs.cache
+C:\Users\Rabby\source\repos\RestWebApiProject\RestWebApiProject\obj\Debug\netcoreapp2.0\RestWebApiProject.AssemblyInfoInputs.cache
+C:\Users\Rabby\source\repos\RestWebApiProject\RestWebApiProject\obj\Debug\netcoreapp2.0\RestWebApiProject.AssemblyInfo.cs
+C:\Users\Rabby\source\repos\RestWebApiProject\RestWebApiProject\bin\Debug\netcoreapp2.0\RestWebApiProject.deps.json
+C:\Users\Rabby\source\repos\RestWebApiProject\RestWebApiProject\bin\Debug\netcoreapp2.0\RestWebApiProject.runtimeconfig.json
+C:\Users\Rabby\source\repos\RestWebApiProject\RestWebApiProject\bin\Debug\netcoreapp2.0\RestWebApiProject.runtimeconfig.dev.json
+C:\Users\Rabby\source\repos\RestWebApiProject\RestWebApiProject\bin\Debug\netcoreapp2.0\RestWebApiProject.dll
+C:\Users\Rabby\source\repos\RestWebApiProject\RestWebApiProject\bin\Debug\netcoreapp2.0\RestWebApiProject.pdb
+C:\Users\Rabby\source\repos\RestWebApiProject\RestWebApiProject\obj\Debug\netcoreapp2.0\RestWebApiProject.dll
+C:\Users\Rabby\source\repos\RestWebApiProject\RestWebApiProject\obj\Debug\netcoreapp2.0\RestWebApiProject.pdb
